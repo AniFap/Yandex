@@ -6,7 +6,12 @@ namespace Yandex
     {
         static void Main()
         {
+            Console.Title = "PassGen";
 
+            while (true)
+            {
+
+            }
         }
     }
 }
